@@ -1,0 +1,9 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+  border : 8px solid rgb(133, 38, 25);
+  font-family: 'Oswald', sans-serif;
+} 
